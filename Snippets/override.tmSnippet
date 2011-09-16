@@ -3,8 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>override public function ${1:name}(${2}):${3:void}
-{
+	<string>override public function ${1:name}(${2}):${3:void} {
 	super.$1();
 	$0
 }</string>

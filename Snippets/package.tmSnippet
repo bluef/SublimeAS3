@@ -3,16 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>package ${1}
-{
+	<string>package ${1} {
 	import flash.display.*;
 	import flash.events.*;
 	import flash.net.*;
 
-	public class ${2:MyClass} extends ${3:Sprite}
-	{
-    	public function $2()
-		{
+	public class ${2:MyClass} extends ${3:Sprite} {
+    	public function $2() {
 		  $0
 		}
 	}
